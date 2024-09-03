@@ -1,79 +1,157 @@
 @extends('layouts.main')
 
 @section('content')
-<section class="details_section shop_details section_space_lg">
+<section class="page_banner" style="background-image: url('assets/images/shapes/tyre_print_3.svg');">
     <div class="container">
-        <div class="section_space_sm pt-0">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="">
-                        <div class="">
-                            <div class=""><img src="assets/images/cs1.jpg" alt="ProMotors - Product Image"></div>
-
+        <ul class="breadcrumb_nav unordered_list">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Tractors</a></li>
+        </ul>
+        <h1 class="page_title wow" data-splitting>Our Tractors</h1>
+    </div>
+</section>
+<section class="shop_section section_space_lg pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item"><a class="item_image" href="/18v"><img
+                                    src="assets/images/tractors/18v/18V -03.png" alt=" - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/18v">Solis 18V</a></h3>
+                           
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
                         </div>
-
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="details_content ps-lg-4">
-
-                        <h1 class="details_item_title">CASE JXT 55</h1>
-
-                        <ul class="rating_star unordered_list mb-4">
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <p>This is a 55HP, 3 cylinder, diesel engine tractor with a displacement of 2931cc.
-                            It has a 2WD and 4WD option.
-                            It is ideal for use with a 2 disc plough.</p>
-                        <ul class="cart_btns_group unordered_list mb-4">
-
-                            <li><a class="btn btn-primary" href="https://sicheyautomotive.com/bronchure/16MEAC0001COM_JXT_BRO_Final.pdf"><span class="btn_text">Download Brochure</span></a>
-                            </li>
-                        </ul>
-
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="">
-                        <div class="">
-                            <div class=""><img src="assets/images/cs2.jpg" alt="ProMotors - Product Image"></div>
-
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item">
+                            <ul class="badge_group unordered_list">
+                              
+                            </ul><a class="item_image" href="/110"><img
+                                    src="assets/images/tractors/110/110-01.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/110">Solis 110</a></h3>
+                               
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
                         </div>
-
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="details_content ps-lg-4">
-
-                        <h1 class="details_item_title">CASE JXT 75</h1>
-
-                        <ul class="rating_star unordered_list mb-4">
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                            <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <p>This is a 75HP, 4 cylinder, diesel engine tractor with a displacement of 3908cc.
-It a 2WD and 4WD option, with a choice between naturally aspirated and turbo charged engines.
-This workhorse is ideal for use with a 3 disc plough.</p>
-                        <ul class="cart_btns_group unordered_list mb-4">
-
-                            <li><a class="btn btn-primary" href="https://sicheyautomotive.com/bronchure/16MEAC0001COM_JXT_BRO_Final.pdf"><span class="btn_text">Download Brochure</span></a>
-                            </li>
-                        </ul>
-
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item"><a class="item_image" href="/4520"><img
+                                    src="assets/images/tractors/4520/4520.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/4520">Solis 4520</a>
+                                
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item">
+                            <ul class="badge_group unordered_list">
+                             
+                            </ul><a class="item_image" href="/4720"><img
+                                    src="assets/images/tractors/4720/4720-01.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/4720">Solis 4720</a></h3>
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item"><a class="item_image" href="/5520"><img
+                                    src="assets/images/tractors/5520/5520-01.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/5520">Solis 5520</a></h3>
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item">
+                            <ul class="badge_group unordered_list">
+                                
+                            </ul><a class="item_image" href="/7520"><img
+                                    src="assets/images/tractors/7520/7520-01.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/7520">Solis 7520
+
+                                </a>
+                                </h3>
+                              
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item"><a class="item_image" href="/9220"><img
+                                    src="assets/images/tractors/9220/9220-01.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/9220">Solis 9220</a></h3>
+                                
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product_item">
+                            <ul class="badge_group unordered_list">
+                               
+                            </ul><a class="item_image" href="/s26"><img
+                                    src="assets/images/tractors/S26/S26.png" alt="ProMotors - Product Image"></a>
+                            <div class="item_content">
+                                <h3 class="item_title"><a href="/s26">Solis 626</a></h3>
+                             
+                                
+                            </div>
+                            <ul class="cart_btns_group unordered_list_block">
+                                <li><a href="#!"><i class="fa-light fa-heart"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-eye"></i></a></li>
+                                <li><a href="#!"><i class="fa-light fa-code-compare"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                 
                 </div>
+              
             </div>
+
         </div>
-
     </div>
 </section>
 

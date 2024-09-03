@@ -29,4 +29,29 @@ class HomeController extends Controller
     public function contact(){
         return view('contact');
     }
+    public function veight(){
+        return view('18v');
+    }
+
+    public function oneten(){
+        return view('110');
+    }
+    public function fourfive(){
+        return view('4520');
+    }
+    public function fourseven(){
+        return view('4720');
+    }
+    public function fivefive(){
+        return view('5520');
+    }
+    public function sevenfive(){
+        return view('7520');
+    }
+    public function ninetwo(){
+        return view('9220');
+    }
+    public function stwosix(){
+        return view('s26');
+    }
 }
