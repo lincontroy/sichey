@@ -9,28 +9,28 @@
               <div class="col-lg-6">
                 <div class="image_gallery_carousel">
                   <div class="details_image_carousel">
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -02.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -02.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -03.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -03.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -04.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -04.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -05.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -05.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V.png"
                         alt="ProMotors - Product Image"></div>
                     
                   </div>
                   <div class="details_image_carousel_nav">
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -02.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -02.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -03.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -03.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -04.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -04.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V -05.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V -05.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/18v/18V.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/18V/18V.png"
                         alt="ProMotors - Product Image"></div>
                     
                   </div>
