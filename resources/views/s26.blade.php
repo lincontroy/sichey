@@ -9,28 +9,28 @@
               <div class="col-lg-6">
                 <div class="image_gallery_carousel">
                   <div class="details_image_carousel">
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-02.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-02.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-03.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-03.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-05.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-05.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-06.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-06.png"
                         alt="ProMotors - Product Image"></div>
                     
                   </div>
                   <div class="details_image_carousel_nav">
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-02.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-02.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-03.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-03.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-05.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-05.png"
                         alt="ProMotors - Product Image"></div>
-                    <div class="gallery_image"><img src="assets/images/tractors/s26/s26-06.png"
+                    <div class="gallery_image"><img src="assets/images/tractors/S26/s26-06.png"
                         alt="ProMotors - Product Image"></div>
                     
                   </div>
