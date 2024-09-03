@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="product_item"><a class="item_image" href="/18v"><img
-                                    src="assets/images/tractors/18v/18V -03.png" alt=" - Product Image"></a>
+                                    src="assets/images/tractors/18v/18V.png" alt=" - Product Image"></a>
                             <div class="item_content">
                                 <h3 class="item_title"><a href="/18v">Solis 18V</a></h3>
                            
