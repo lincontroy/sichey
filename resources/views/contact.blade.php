@@ -14,24 +14,26 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-              <div class="contact_info_box">
-                <h3 class="item_title">Address</h3>
-                <ul class="info_list unordered_list_block pe-lg-2">
-                  <li><span class="info_text mb-3">Pembe Plaza, Ground Floor Homa Bay Road/ Enterprise Road Junction Industrial Area</span></li>
+            <div class="contact_info_box">
+    <h3 class="item_title">Address</h3>
+    <ul class="info_list unordered_list_block pe-lg-2">
+        <li><span class="info_text mb-3">Pembe Plaza, Ground Floor Homa Bay Road/ Enterprise Road Junction Industrial Area</span></li>
+        <li><span class="info_text mb-3">UG Branch: Kampala Road, Plot 22, Kampala, Uganda</span></li>
+        <li><span class="info_text mb-3">Eldoret Branch: Oloo Street, Eldoret, Kenya</span></li>
+    </ul>
+</div>
 
-                </ul>
-              </div>
             </div>
             <div class="col-lg-4">
               <div class="contact_info_box">
                 <h3 class="item_title">Office Hours</h3>
                 <ul class="info_list unordered_list_block">
                   <li><span class="info_text d-flex align-items-center justify-content-between"><span>Monday -
-                        Thuesday</span> <span>8 am - 5 pm</span></span></li>
+                        Thursday</span> <span>8 am - 5 pm</span></span></li>
                   <li><span class="info_text d-flex align-items-center justify-content-between"><span>Friday</span>
                       <span>8 am - 6 pm</span></span></li>
                   <li><span class="info_text d-flex align-items-center justify-content-between"><span>Saturday</span>
-                      <span>9 am - 4 pm</span></span></li>
+                      <span>8 am - 1 pm</span></span></li>
                   <li><span class="info_text d-flex align-items-center justify-content-between"><span>Sunday</span>
                       <span>Closed</span></span></li>
                 </ul>
@@ -41,8 +43,8 @@
               <div class="contact_info_box">
                 <h3 class="item_title">Customer Support</h3>
                 <ul class="info_list unordered_list_block">
-                  <li><span class="info_text mb-3"><span class="d-block"><a href="tel:+8801680636189">+254 735 500 500 / +254 768 989 407 / +254 757 487 425
-                          89</a> </span><span class="d-block"><a href="tel:+11234567890">+254 735 500 500 / +254 768 989 407 / +254 757 487 425</a></span></span></li>
+                  <li><span class="info_text mb-3"><span class="d-block"><a href="tel:+8801680636189">+254 735 500 500 / +254 768 989 407
+                          89</a> </span><span class="d-block"><a href="tel:+11234567890">+254 735 500 500 / +254 768 989 407</a></span></span></li>
                   <li><span class="info_text"><span class="d-block"><a
                           href="mailto:+8801680636189">sales@sicheyautomotive.com</a> </span><span class="d-block"><a
                           href="mailto:+11234567890">sales@sicheyautomotive.com</a></span></span></li>

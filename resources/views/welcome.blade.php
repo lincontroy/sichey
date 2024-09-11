@@ -543,7 +543,57 @@
     </div>
 </section>
 
+<section class="section_space_lg">
+<div class="testimonials_section py-5">
+    <div class="container">
+        <h2 class="section_title text-center mb-5">What Our Clients Say</h2>
+        <div class="row">
+            <!-- Testimonial 1 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="testimonial_card p-4 text-center border rounded">
+                    <div class="client_image mb-3">
+                        <img src="path-to-client-image1.jpg" alt="Client Name" class="rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                    </div>
+                    <div class="client_testimonial">
+                        <p>"This service has been fantastic! It has transformed how we manage our daily tasks. Highly recommend!"</p>
+                        <h5 class="client_name mt-3">John Doe</h5>
+                        <p class="client_position">CEO, XYZ Company</p>
+                    </div>
+                </div>
+            </div>
 
+            <!-- Testimonial 2 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="testimonial_card p-4 text-center border rounded">
+                    <div class="client_image mb-3">
+                        <img src="path-to-client-image2.jpg" alt="Client Name" class="rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                    </div>
+                    <div class="client_testimonial">
+                        <p>"An amazing experience from start to finish. The team was professional and efficient throughout."</p>
+                        <h5 class="client_name mt-3">Jane Smith</h5>
+                        <p class="client_position">Marketing Director, ABC Corp</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Testimonial 3 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="testimonial_card p-4 text-center border rounded">
+                    <div class="client_image mb-3">
+                        <img src="path-to-client-image3.jpg" alt="Client Name" class="rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                    </div>
+                    <div class="client_testimonial">
+                        <p>"Their dedication and attention to detail really made a difference in our project. Excellent service!"</p>
+                        <h5 class="client_name mt-3">Samuel Ochieng</h5>
+                        <p class="client_position">Project Manager, DEF Enterprises</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</section>
 
 <section class="appointment_form_section section_space_lg">
     <div class="container">
