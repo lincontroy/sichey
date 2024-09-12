@@ -121,7 +121,7 @@
             <div class="footer_content_area section_space_lg bg_gray_dark">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="footer_about pe-lg-5">
                                 <div class="site_logo"><a class="site_link" href="index.html"><img
                                             class="dark_theme_logo" src="assets/images/site_logo/sichey.png"
@@ -144,7 +144,7 @@
                                         href="tel:+254735500500"> +254 735 500 500/ +254 768 989 407 </a></div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="info_list_wrap">
                                 <h3 class="list_title">About Us</h3>
                                 <ul class="info_list unordered_list_block text-uppercase">
@@ -159,70 +159,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4">
-                            <div class="info_list_wrap">
-                                <h3 class="list_title">Popular Services</h3>
-                                <div class="row">
-                                    <div class="col-md-6 col-sm-6">
-                                        <ul class="info_list unordered_list_block text-uppercase">
-                                            <li><a href="home1_repair_service.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Repair Service</span></a></li>
-                                            <li><a href="home2_online_service.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Online Service</span></a></li>
-                                            <li><a href="home3_tyres.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Tyres Production</span></a></li>
-                                            <li><a href="home4_auto_shop.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Auto Equipments</span></a></li>
-                                            <li><a href="home5_hire_expert.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Hire Expert</span></a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6 col-sm-6">
-                                        <ul class="info_list unordered_list_block text-uppercase">
-                                            <li><a href="home6_rims_wheels.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Rims & Wheels</span></a></li>
-                                            <li><a href="home7_master_service.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Master Service</span></a></li>
-                                            <li><a href="home8_service_booking.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Service Booking</span></a></li>
-                                            <li><a href="home9_wash_service.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Wash Service</span></a></li>
-                                            <li><a href="home10_paint_service.html"><span class="info_icon"><img
-                                                            src="assets/images/icons/icon_square.svg"
-                                                            alt="ProMotors - Icon Square"> </span><span
-                                                        class="info_text">Paint Service</span></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="footer_subscribe_form">
-                                <h3 class="list_title">Subscribe</h3>
-                                <div class="form-group"><label for="input_email">Your Email</label> <input type="tel"
-                                        name="phone" class="form-control" id="input_email"
-                                        placeholder="Enter Your Email Address"></div><button type="submit"
-                                    class="btn btn-primary"><span class="btn_text">Subscribe</span></button>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
