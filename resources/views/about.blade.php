@@ -154,81 +154,154 @@
     </div>
 </section>
 
-<section class="portfolio_section section_space_lg">
-    <div class="container">
-        <div class="row">
-            <!-- First row -->
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g1.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g2.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g3.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
-                    <div class="team_expert_content">
-                        <!-- Content goes here -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g4.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
-                </div>
-            </div>
+<section class="page_banner" style="background-image: url('assets/images/shapes/tyre_print_3.svg');">
+        <div class="container">
+          
+          <h1 class="page_title wow" data-splitting>Our Team</h1>
         </div>
-
-        <div class="row">
-            <!-- Second row -->
+      </section>
+      <section class="team_section section_space_lg">
+        <div class="container">
+          <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g5.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t1.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Patrick Amenya</h3><span class="team_expert_designation d-block">Director
+            </span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
                 </div>
+              </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g6.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t2.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Brenda Amenya</h3><span class="team_expert_designation d-block">Director
+                      </span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
                 </div>
+              </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g7.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t3.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Faith chepkorir</h3><span class="team_expert_designation d-block">GM Finance and Admin</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
                 </div>
+              </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g8.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t4.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Brian Edward</h3><span class="team_expert_designation d-block">BUSINESS ANALYST - DIGITAL, MARKETING & SALES</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
                 </div>
+              </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="team_expert_item">
-                    <div class="team_expert_image">
-                        <img src="assets/images/g9.jpg" alt="ProMotors - Car Repair Service">
-                    </div>
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t5.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Nelson Ruto</h3><span class="team_expert_designation d-block">GM AFTERSALES</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
                 </div>
+              </div>
             </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t6.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Peter Eugin</h3><span class="team_expert_designation d-block">Sales consultant</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t7.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Morrice Odhiambo Bala</h3><span class="team_expert_designation d-block">Parts Supervisor</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="team_expert_item">
+                <div class="team_expert_image"><img src="assets/images/t8.jpg"
+                    alt="ProMotors - Team Expert Image"></div>
+                <div class="team_expert_content">
+                  <div class="team_expert_title">
+                    <h3 class="team_expert_name">Eric Carlton</h3><span class="team_expert_designation d-block">Technician</span>
+                  </div>
+                  <ul class="social_links unordered_list">
+                    <li><a href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#!"><i class="fa-brands fa-whatsapp"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-    </div>
-</section>
+      </section>
 @endsection

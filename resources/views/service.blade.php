@@ -12,7 +12,7 @@
 <section class="blog_standard_section section_space_lg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="blog_item mb-5"><a class="item_image" href=""><img src="assets/images/s1.jpg"
                             alt="ProMotors - Blog Image"></a>
                     <div class="item_content">
@@ -39,7 +39,7 @@
 
                 
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="blog_item mb-5"><a class="item_image" href=""><img src="assets/images/s2.jpg"
                             alt="ProMotors - Blog Image"></a>
                     <div class="item_content">
@@ -53,17 +53,49 @@
                     </div>
                 </div>
 
-                <div class="pagination_wrap p-0">
-                    <ul class="pagination_nav unordered_list">
-                        <li><a href="#!"><i class="fa-regular fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li><a href="#!">2</a></li>
-                        <li><a href="#!">3</a></li>
-                        <li><a href="#!"><i class="fa-regular fa-angle-right"></i></a></li>
-                    </ul>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="appointment_form_section section_space_lg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="section_heading">
+                    <div class="outline_text">Contact Us</div>
+                    <h3 class="heading_text wow" data-splitting>Request Service</h3>
+                    <p class="heading_description mb-0">Fill out this form</p>
                 </div>
             </div>
         </div>
+        <form action="#">
+            <div class="form_wrap row">
+                <div class="col-md-6">
+                    <div class="form-group mb-0"><label for="input_name">Your Name</label> <input type="text"
+                            name="name" class="form-control" id="input_name" placeholder="Enter Your Name"></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group mb-0"><label for="input_phone">Your Phone</label> <input type="tel"
+                            name="phone" class="form-control" id="input_phone" placeholder="Enter Your Phone"></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group mb-0"><label for="input_date">Select Date</label> <input type="date"
+                            name="date" class="form-control" id="input_date"></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group mb-0"><label for="input_time">Select Time</label> <input type="time"
+                            name="time" class="form-control" id="input_time"></div>
+                </div>
+                <div class="col-12">
+                    <div class="form-group"><label for="input_textarea">Your Message</label> <textarea name="message"
+                            class="form-control" id="input_textarea" placeholder="Describe Your Problem"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary"><span class="btn_text">Send Now</span></button>
+                </div>
+            </div>
+        </form>
     </div>
 </section>
 
